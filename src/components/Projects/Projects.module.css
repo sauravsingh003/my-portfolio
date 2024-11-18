@@ -22,10 +22,17 @@
 .projects {
   margin-top: 37px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 25px;
   width: 100%;
+}
+
+@media screen and (max-width: 650px) {
+  .container{
+    padding-left: 3%;
+    padding-right: 3%;
+  }
 }

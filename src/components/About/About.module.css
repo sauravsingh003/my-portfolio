@@ -68,18 +68,12 @@
 }
 
 @media screen and (max-width: 830px) {
-  .container {
-    background-color: transparent;
-    padding-left: 0;
-    padding-right: 0;
+  .container{
+    padding-left: 5%;
+    padding-right: 5%;
   }
-
   .content {
     flex-direction: column;
-  }
-
-  .aboutImage {
-    display: none;
   }
 
   .aboutItems {

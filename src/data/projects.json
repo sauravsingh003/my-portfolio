@@ -2,12 +2,12 @@
   {
     "title": "Citizen Safety App",
     "imageSrc": "projects/project1.png",
-    "description": "Detects and flags malicious fraud attempts through messages, links, UPl IDs and applications, alerting users before they proceed with payments. Allows users to copy and paste suspected links to verify their association with fraudulent accounts."
+    "description": "Detects and flags malicious fraud attempts through messages, links, UPl IDs and applications, alerting users before they proceed with payments. Allows users to copy and paste suspected links to verify their association with fraudulent accounts. Improve citizen safety through technology-driven solutions."
   },
   {
     "title": "Student Registration System",
     "imageSrc": "projects/project2.png",
-    "description": "Created a student registration system using Java and MySQL, allowing administrators to manage student records. Designed a user-friendly interface for data entry and retrieval. Implemented secure data storage and retrieval using SQL."
+    "description": "Created a student registration system using Java and MySQL, allowing administrators to manage student records. Designed a user-friendly interface for data entry and retrieval. Implemented secure data storage and retrieval using SQL. It ensures efficiency, accuracy, and ease of use for educational institutions."
   },
   {
     "title": "Airline Management System",

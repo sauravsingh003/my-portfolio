@@ -7,12 +7,13 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 645px;
+  max-width: 375px;
 }
 
 .image {
-  margin-bottom: 16px;
-  border-radius: 15px;
+  margin-bottom: 26px;
+  border-radius: 10px;
+  max-height: 200px;
 }
 
 .title {
@@ -22,14 +23,14 @@
 
 .description {
   margin-top: 6px;
-  font-size: 17px;
+  font-size: 19px;
   font-weight: 300;
 }
 
 .contactBtn {
   margin-top: 5px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 17%;
+  margin-right: 17%;
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);
@@ -38,4 +39,17 @@
   font-weight: 600;
   padding: 10px 30px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+@media screen and (max-width: 650px) {
+  .container{
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+  .image {
+    max-height: 100px;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5%;
+  }
 }
