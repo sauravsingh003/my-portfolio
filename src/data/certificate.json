@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Java Training at Solitaire Infosys",
+    "imageSrc": "certificates/java.png",
+    "description": "Successfully completed 6-weeks Java training at Solitaire Infosys, Mohali. Many key skills acquired in this period such as Data Structure and Algorithms, OOPS , Problem solving and debugging techniques. This training enhanced my programming skills in Java, improved understanding of software development life-cycle.",
+    "link": "./../../assets/java.pdf"
+  },
+  {
+    "title": "Web Development Intern at internPE",
+    "imageSrc": "certificates/webd.png",
+    "description": "Successfully completed 4-weeks Web Development internship at internPE. I learn many key concepts in this period and gained hand-on expreience in web development. This internship enhanced my problem solving skills and give me confidence in development.",
+    "link": "./../../assets/webD.pdf"
+  }
+]
