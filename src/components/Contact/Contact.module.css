@@ -47,7 +47,7 @@
   letter-spacing: 1.5px;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 915px) {
   .container {
     flex-direction: column;
     gap: 2%;
@@ -59,8 +59,45 @@
     align-items: center;
   }
 
+  .text h2 {
+    font-size: 65px;
+  }
+
+  .text p {
+    font-size: 30px;
+  }
+
+  .links {
+    align-items: center;
+    gap: 1%;
+  }
+}
+
+@media screen and (max-width: 515px) {
   .links {
     align-items:first baseline;
     gap: 1%;
+  }
+
+  .container {
+    gap: 1%;
+  }
+
+  .text h2 {
+    font-size: 55px;
+  }
+
+  .text p {
+    margin: 1px;
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+
+  .link a {
+    font-size: 20px;
+  }
+
+  .link img {
+    display:none;
   }
 }
