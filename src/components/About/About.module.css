@@ -26,10 +26,11 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 120%;
 }
 
 .aboutItems {
+  margin-top: 30px;
   color: var(--color-text);
   display: flex;
   flex-direction: column;
@@ -58,8 +59,8 @@
 }
 
 .aboutItem h3 {
-  font-size: 25px;
-  font-weight: 600;
+  font-size: 30px;
+  font-weight: 300;
 }
 
 .aboutItem p {

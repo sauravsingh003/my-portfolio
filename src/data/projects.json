@@ -1,26 +1,22 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Citizen Safety App",
+    "imageSrc": "projects/project1.png",
+    "description": "Detects and flags malicious fraud attempts through messages, links, UPl IDs and applications, alerting users before they proceed with payments. Allows users to copy and paste suspected links to verify their association with fraudulent accounts."
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Student Registration System",
+    "imageSrc": "projects/project2.png",
+    "description": "Created a student registration system using Java and MySQL, allowing administrators to manage student records. Designed a user-friendly interface for data entry and retrieval. Implemented secure data storage and retrieval using SQL."
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Airline Management System",
+    "imageSrc": "projects/project3.png",
+    "description": "As a final project in college, our team developed an Airline Management System using Java, showcasing our expertise in software development and problem-solving. This system streamlines airline operations, enhancing efficiency and customer satisfaction.Integrated with database management system for data storage and retrieval."
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/project4.png",
+    "description": "Responsive Design: Adapts to various devices and screen sizes for optimal user experience. Product Catalog: Robust filtering and sorting capabilities for easy product discovery. Secure Checkout: Smooth transactions with payment gateway integration. Interactive Elements: JavaScript-powered carousels and modal windows for enhanced engagement"
   }
 ]
