@@ -7,7 +7,7 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 375px;
+  max-width: 450px;
 }
 
 .image {
@@ -20,6 +20,23 @@
   font-size: 25px;
   font-weight: 700;
 }
+
+.titleRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.iconLink {
+  color: var(--color-text);
+  transition: color 0.2s;
+  font-size: 2rem;
+}
+
+.iconLink:hover {
+  color: var(--color-primary); 
+}
+
 
 .description {
   margin-top: 6px;

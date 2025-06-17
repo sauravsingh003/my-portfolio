@@ -10,30 +10,22 @@ export const About = () => {
         <ul className={styles.aboutItems}>
           <div className={styles.aboutItemText}>
             <h3>
-              Hi! I'm Saurav Singh, recently graduate engineer with a strong
-              foundation in programming languages like Java and JavaScipt. I'm
-              proficient in DSA and software engineering principles.
+              Hi! I'm Saurav Singh, a engineering graduate currently pursuing PG-DAC from CDAC, Bangalore. I have completed my graduation in Electronics and Communication Engineering from University Institute of Engineering and Technology, Kurukshetra University, Kurukshetra. I have a strong foundation in programming languages like Java, C++ and JavaScript with a deep understanding of data structures and algorithms, which I've been practicing for a long time.
             </h3>
             <h3>
-              I have hands-on experience with technologies like Java, HTML, CSS,
-              JavaScript, React, and databases such as MySQL and MongoDB. I
-              enjoy bridging the gap between front-end aesthetics and back-end
-              functionality to create seamless user experiences.
+              I'm proficient in software engineering principles and have hands-on experience with technologies such as Java, C++, HTML, CSS, JavaScript, React.js, SpringBoot, Node.js, Express.js, and databases like MySQL and MongoDB—making me confident in working with the full stack development.
             </h3>
             <h3>
-              I thrive on solving complex problems and constantly strive to
-              learn new tools and technologies to stay ahead in this
-              ever-evolving field.
+              I enjoy bridging the gap between front-end design and back-end functionality to create seamless and efficient user experiences.
             </h3>
             <h3>
-              I'm eager to apply my skills and knowledge in a real-world
-              projects and learn from experienced professionals. I'm looking for
-              an opportunity to grow and develop as a software developer and
-              contribute to innovative projects.
+              I'm passionate about solving complex problems and continuously learning new tools and technologies to stay ahead in this ever-evolving field.
             </h3>
             <h3>
-              Feel free to check out my work below or reach out—I'd love to
-              collaborate on your next project!
+              I'm eager to apply my skills in real-world projects, learn from experienced professionals, and grow as a software developer while contributing to innovative solutions.
+            </h3>
+            <h3>
+              Feel free to check out my work below or reach out—I'd love to collaborate on your next project!
             </h3>
           </div>
         </ul>

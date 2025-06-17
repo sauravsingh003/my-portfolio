@@ -85,3 +85,23 @@
     padding-right: 0;
   }
 }
+
+.aboutItemText h3 {
+  line-height: 1.6;       
+  letter-spacing: 0.5px;   
+  margin-bottom: 1rem;     
+}
+
+
+.container {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(118, 118, 118, 0.1);
+}
+
+.container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px rgba(255, 255, 255, 0.15);
+}
+

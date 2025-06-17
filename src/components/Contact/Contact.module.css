@@ -101,3 +101,23 @@
     display:none;
   }
 }
+
+.iconRow {
+  display: flex;
+  gap: 50px; /* Space between icons */
+  justify-content: center; /* Center align */
+  align-items: center;
+  margin-top: 10px;
+}
+
+.iconRow img {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.iconRow img:hover {
+  transform: scale(1.1);
+}
+

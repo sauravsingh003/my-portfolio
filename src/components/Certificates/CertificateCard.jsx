@@ -1,5 +1,6 @@
 import React from "react";
 
+import { FiExternalLink } from "react-icons/fi"; 
 import styles from "./CertificateCard.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -13,11 +14,21 @@ export const CertificateCard = ({
         alt={`Image of ${title}`}
         className={styles.image}
       />
-      <h3 className={styles.title}>{title}</h3>
+      <div className={styles.titleRow}>
+        <h3 className={styles.title}>{title}
+        <a
+          href={link}
+          className={styles.iconLink}
+          title="Certificate Link" 
+        >
+          <FiExternalLink size={20} />
+        </a>
+        </h3>
+      </div>
       <p className={styles.description}>{description}</p>
-      <a href={link} className={styles.contactBtn}>
+      {/* <a href={link} className={styles.contactBtn}>
         Certificate Link
-      </a>
+      </a> */}
     </div>
   );
 };

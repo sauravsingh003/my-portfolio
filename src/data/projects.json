@@ -1,22 +1,26 @@
 [
   {
-    "title": "Citizen Safety App",
-    "imageSrc": "projects/project1.png",
-    "description": "Detects and flags malicious fraud attempts through messages, links, UPl IDs and applications, alerting users before they proceed with payments. Allows users to copy and paste suspected links to verify their association with fraudulent accounts. Improve citizen safety through technology-driven solutions."
+    "title": "Job Portal",
+    "imageSrc": "projects/project1.jpeg",
+    "description": "Job Portal is a full-stack web application designed to connect job seekers with employers, built using React.js for the front end and Spring Boot for the back end. It features a user-friendly interface where job seekers can browse and apply for jobs, while employers can post job listings and manage applications. The platform includes secure user authentication, role-based access control, and real-time form validation. RESTful APIs built with Spring Boot handle all backend logic and database interactions, ensuring smooth and scalable performance. This project showcases seamless integration between a modern React UI and a robust Java-based backend, providing a comprehensive solution for job management and recruitment.",
+    "link": "https://github.com/sauravsingh003/JobPortal" 
   },
   {
-    "title": "Student Registration System",
-    "imageSrc": "projects/project2.png",
-    "description": "Created a student registration system using Java and MySQL, allowing administrators to manage student records. Designed a user-friendly interface for data entry and retrieval. Implemented secure data storage and retrieval using SQL. It ensures efficiency, accuracy, and ease of use for educational institutions."
+  "title": "Doctor Appointment System",
+  "imageSrc": "projects/project2.png",
+  "description": "The Online Doctor Appointment System is a full-stack web application built using React.js for the frontend, Spring Boot for the backend, and MySQL as the database. It allows patients to book appointments with doctors seamlessly through a responsive and intuitive interface. Features include secure user registration and login with JWT-based authentication, doctor profile listings with specialization filters, and real-time appointment scheduling. The admin panel enables management of doctors, patients, and appointment records. This project demonstrates strong integration of modern technologies, secure session handling, and effective front-end to back-end communication via REST APIs.",
+  "link": "https://github.com/sauravsingh003/doctor-appointment-system"
   },
   {
-    "title": "Airline Management System",
-    "imageSrc": "projects/project3.png",
-    "description": "As a final project in college, our team developed an Airline Management System using Java, showcasing our expertise in software development and problem-solving. This system streamlines airline operations, enhancing efficiency and customer satisfaction.Integrated with database management system for data storage and retrieval."
+    "title": "bookStore",
+    "imageSrc": "projects/project3.jpeg",
+    "description": "The BookStore is a full-stack web application developed using the MERN stack—MongoDB, Express.js, React.js, and Node.js. It allows users to browse, search, and purchase books through a clean and responsive interface. The application includes features such as user authentication with JWT, a dynamic search and filtering system, a detailed book information page. In this an admin panel is also implemented to manage books, including adding, editing, and deleting entries. Additionally, system enabling both users and administrators to track and handle orders efficiently. The project demonstrates strong integration between front-end and back-end technologies, efficient use of RESTful APIs, and a focus on delivering a seamless user experience.",
+    "link": "https://github.com/sauravsingh003/bookStore"
   },
   {
-    "title": "eCommerce Website",
-    "imageSrc": "projects/project4.png",
-    "description": "Responsive Design: Adapts to various devices and screen sizes for optimal user experience. Product Catalog: Robust filtering and sorting capabilities for easy product discovery. Secure Checkout: Smooth transactions with payment gateway integration. Interactive Elements: JavaScript-powered carousels and modal windows for enhanced engagement"
+  "title": "CineCrit",
+  "imageSrc": "projects/project4.jpeg",
+  "description":  "CineCrit is a movie review web application developed using HTML, CSS, and JavaScript. It allows users to explore the latest movies, view trailers, and read concise reviews through a clean and user-friendly interface. The application fetches real-time data using external APIs, providing up-to-date movie information and embedded trailers. Responsive design ensures compatibility across different devices, offering a seamless experience whether on desktop or mobile. CineCrit also includes features like genre-based filtering and search functionality to help users quickly find movies of interest. This project demonstrates proficiency in front-end technologies, API integration, and interactive UI design. Future enhancements may include user ratings and a personalized watchlist feature.",
+  "link": "https://github.com/sauravsingh003/CineCrit"
   }
 ]

@@ -4,6 +4,10 @@
     "imageSrc": "skills/java.png"
   },
   {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -16,8 +20,20 @@
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "React",
+    "title": "React.js",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/expressjs.png"
   },
   {
     "title": "MySQL",
