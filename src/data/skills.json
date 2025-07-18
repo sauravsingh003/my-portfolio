@@ -1,7 +1,7 @@
 [
   {
     "title": "Java",
-    "imageSrc": "skills/Java.png"
+    "imageSrc": "skills/Javaa.png"
   },
   {
     "title": "C++",
@@ -49,15 +49,15 @@
   },
   {
     "title": "MySQL",
-    "imageSrc": "skills/Mysql.png"
+    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/Mongodb.png"
+    "imageSrc": "skills/Mongo.png"
   },
   {
     "title": "Github",
-    "imageSrc": "skills/git.png"
+    "imageSrc": "skills/Github.png"
   },
   {
     "title": "BootStrap",
