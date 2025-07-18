@@ -29,7 +29,7 @@
   },
   {
     "title": "React.js",
-    "imageSrc": "skills/React.png"
+    "imageSrc": "skills/React.js.png"
   },
   {
     "title": "Express.js",
@@ -49,15 +49,15 @@
   },
   {
     "title": "MySQL",
-    "imageSrc": "skills/MySQL.png"
+    "imageSrc": "skills/Mysql.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/MongoDB.png"
+    "imageSrc": "skills/Mongodb.png"
   },
   {
     "title": "Github",
-    "imageSrc": "skills/GitHub.png"
+    "imageSrc": "skills/git.png"
   },
   {
     "title": "BootStrap",
