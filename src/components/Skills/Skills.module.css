@@ -46,8 +46,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
 }
 
 .skillImageContainer img {
@@ -55,7 +55,7 @@
 }
 
 .skill p {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
   font-family: var(--font-roboto);
   font-weight: 500;
