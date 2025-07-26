@@ -3,13 +3,13 @@
     "title": "Job Portal",
     "imageSrc": "projects/project1.jpeg",
     "description": "Job Portal is a full-stack web application designed to connect job seekers with employers, built using React.js for the front end and Spring Boot for the back end. It features a user-friendly interface where job seekers can browse and apply for jobs, while employers can post job listings and manage applications. The platform includes secure user authentication, role-based access control, and real-time form validation. RESTful APIs built with Spring Boot handle all backend logic and database interactions, ensuring smooth and scalable performance. This project showcases seamless integration between a modern React UI and a robust Java-based backend, providing a comprehensive solution for job management and recruitment.",
-    "link": "https://github.com/sauravsingh003/JobPortal" 
+    "link": "https://github.com/sauravsingh003/JobPortal"
   },
   {
-  "title": "Doctor Appointment System",
-  "imageSrc": "projects/project2.png",
-  "description": "The Online Doctor Appointment System is a full-stack web application built using React.js for the frontend, Spring Boot for the backend, and MySQL as the database. It allows patients to book appointments with doctors seamlessly through a responsive and intuitive interface. Features include secure user registration and login with JWT-based authentication, doctor profile listings with specialization filters, and real-time appointment scheduling. The admin panel enables management of doctors, patients, and appointment records. This project demonstrates strong integration of modern technologies, secure session handling, and effective front-end to back-end communication via REST APIs.",
-  "link": "https://github.com/sauravsingh003/doctor-appointment-system"
+    "title": "Doctor Appointment System",
+    "imageSrc": "projects/project2.png",
+    "description": "The Online Doctor Appointment System is a full-stack web application built using React.js for the frontend, Spring Boot for the backend, and MySQL as the database. It allows patients to book appointments with doctors seamlessly through a responsive and intuitive interface. Features include secure user registration and login with JWT-based authentication, doctor profile listings with specialization filters, and real-time appointment scheduling. The admin panel enables management of doctors, patients, and appointment records. This project demonstrates strong integration of modern technologies, secure session handling, and effective front-end to back-end communication via REST APIs.",
+    "link": "https://github.com/sauravsingh003/doctor-appointment-system"
   },
   {
     "title": "bookStore",
@@ -18,9 +18,9 @@
     "link": "https://github.com/sauravsingh003/bookStore"
   },
   {
-  "title": "CineCrit",
-  "imageSrc": "projects/project4.jpeg",
-  "description":  "CineCrit is a movie review web application developed using HTML, CSS, and JavaScript. It allows users to explore the latest movies, view trailers, and read concise reviews through a clean and user-friendly interface. The application fetches real-time data using external APIs, providing up-to-date movie information and embedded trailers. Responsive design ensures compatibility across different devices, offering a seamless experience whether on desktop or mobile. CineCrit also includes features like genre-based filtering and search functionality to help users quickly find movies of interest. This project demonstrates proficiency in front-end technologies, API integration, and interactive UI design. Future enhancements may include user ratings and a personalized watchlist feature.",
-  "link": "https://github.com/sauravsingh003/CineCrit"
+    "title": "FitTrack",
+    "imageSrc": "projects/project5.jpeg",
+    "description": "FitTrack is a full-stack web application designed to help users monitor and improve their fitness journey online. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it features secure JWT-based authentication, intuitive workout logging, and insightful analytics such as weekly performance tracking and category-wise calorie burn. The frontend is styled with Tailwind CSS and managed with Redux Toolkit for smooth and responsive state handling. Additional features include embedded workout tutorials videos, fitness blogs, and a clean, mobile-friendly and responsive UI. FitTrack offers a comprehensive platform for users to log workouts, visualize progress, and stay motivated throughly. I developed this project from scratch, focusing on both backend architecture and a polished user experience.",
+    "link": "https://github.com/sauravsingh003/FitTrack"
   }
 ]
