@@ -2,7 +2,7 @@
 
 Welcome to my **Personal Portfolio Website** – a modern, responsive web application designed to showcase my skills, projects, certificates, and experience in web development and programming.
 
-📌 **Live Demo:** [[https://your-portfolio.netlify.app](https://singhsaurav-portfolio.netlify.app/)
+📌 **Live Demo:** [https://your-portfolio.netlify.app](https://singhsaurav-portfolio.netlify.app/)
 
 ---
 
