@@ -9,7 +9,7 @@
     "title": "Doctor Appointment System",
     "imageSrc": "projects/project2.png",
     "description": "The Online Doctor Appointment System is a full-stack web application built using React.js for the frontend, Spring Boot for the backend, and MySQL as the database. It allows patients to book appointments with doctors seamlessly through a responsive and intuitive interface. Features include secure user registration and login with JWT-based authentication, doctor profile listings with specialization filters, and real-time appointment scheduling. The admin panel enables management of doctors, patients, and appointment records. This project demonstrates strong integration of modern technologies, secure session handling, and effective front-end to back-end communication via REST APIs.",
-    "link": "https://github.com/sauravsingh003/doctor-appointment-system"
+    "link": "https://github.com/sauravsingh003/DocSlot-OnlineAppointmentSystem"
   },
   {
     "title": "bookStore",
